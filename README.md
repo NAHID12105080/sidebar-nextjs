@@ -34,6 +34,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-# sidebar-nextjs
-# sidebar-nextjs
-# sidebar-nextjs
+## sidebar-nextjs
+  ### tech-stack I'll try to use:
+    1.nextAuth -> for authentication
+    2.zod -> schema validation
+    3.docker -> for local database setup
+    4.prisma -> orm
+    5.react hook form
+    6.shadcn
+    7.framer motion -> for animation
+    
